@@ -1,3 +1,0 @@
-/mnt/c/Users/mauricio/Desktop/dev/Lobster-Parser/build/CMakeFiles/LobsterParser.dir
-/mnt/c/Users/mauricio/Desktop/dev/Lobster-Parser/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/mauricio/Desktop/dev/Lobster-Parser/build/CMakeFiles/rebuild_cache.dir
